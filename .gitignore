@@ -1,0 +1,4 @@
+*-backups/
+*.dsn
+*.ses
+fp-info-cache
