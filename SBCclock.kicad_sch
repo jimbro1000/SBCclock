@@ -1911,7 +1911,7 @@
     (property "Reference" "C2" (at 130.1496 95.5548 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "18pF" (at 130.1496 98.0948 90)
+    (property "Value" "1uF" (at 130.1496 98.0948 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (at 126.3396 104.394 0)
