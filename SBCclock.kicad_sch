@@ -6310,7 +6310,7 @@
 				)
 			)
 		)
-		(property "Value" "74ACT07"
+		(property "Value" "74ACT17"
 			(at 234.95 62.23 0)
 			(effects
 				(font
@@ -6318,7 +6318,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:TSSOP-14_4.4x3.6mm_P0.4mm"
+		(property "Footprint" "Package_SO:TSSOP-14_4.4x5mm_P0.65mm"
 			(at 234.95 68.58 0)
 			(effects
 				(font
@@ -6345,7 +6345,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" "296-SN74ACT07PWRCT-ND"
+		(property "DigiKey" "296-SN74ACT17PWRCT-ND"
 			(at 234.95 68.58 0)
 			(effects
 				(font
@@ -6935,7 +6935,7 @@
 				)
 			)
 		)
-		(property "Value" "74ACT07"
+		(property "Value" "74ACT17"
 			(at 234.95 92.71 0)
 			(effects
 				(font
@@ -6943,7 +6943,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:TSSOP-14_4.4x3.6mm_P0.4mm"
+		(property "Footprint" "Package_SO:TSSOP-14_4.4x5mm_P0.65mm"
 			(at 234.95 99.06 0)
 			(effects
 				(font
@@ -6970,7 +6970,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" "296-SN74ACT07PWRCT-ND"
+		(property "DigiKey" "296-SN74ACT17PWRCT-ND"
 			(at 234.95 99.06 0)
 			(effects
 				(font
@@ -7178,7 +7178,7 @@
 				)
 			)
 		)
-		(property "Value" "74ACT07"
+		(property "Value" "74ACT17"
 			(at 234.95 72.39 0)
 			(effects
 				(font
@@ -7186,7 +7186,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:TSSOP-14_4.4x3.6mm_P0.4mm"
+		(property "Footprint" "Package_SO:TSSOP-14_4.4x5mm_P0.65mm"
 			(at 234.95 78.74 0)
 			(effects
 				(font
@@ -7213,7 +7213,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" "296-SN74ACT07PWRCT-ND"
+		(property "DigiKey" "296-SN74ACT17PWRCT-ND"
 			(at 234.95 78.74 0)
 			(effects
 				(font
@@ -8250,6 +8250,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "DS1813R-5+CT-ND"
+			(at 82.296 136.144 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "af019876-20cd-4ff5-9b10-0cb932c0e70a")
 		)
@@ -8704,7 +8713,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "74ACT07"
+		(property "Value" "74ACT17"
 			(at 194.31 142.2399 0)
 			(effects
 				(font
@@ -8713,7 +8722,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:TSSOP-14_4.4x3.6mm_P0.4mm"
+		(property "Footprint" "Package_SO:TSSOP-14_4.4x5mm_P0.65mm"
 			(at 187.96 140.97 0)
 			(effects
 				(font
@@ -8740,7 +8749,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" "296-SN74ACT07PWRCT-ND"
+		(property "DigiKey" "296-SN74ACT17PWRCT-ND"
 			(at 187.96 140.97 0)
 			(effects
 				(font
@@ -10673,7 +10682,7 @@
 				)
 			)
 		)
-		(property "Value" "74ACT07"
+		(property "Value" "74ACT17"
 			(at 234.95 82.55 0)
 			(effects
 				(font
@@ -10681,7 +10690,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:TSSOP-14_4.4x3.6mm_P0.4mm"
+		(property "Footprint" "Package_SO:TSSOP-14_4.4x5mm_P0.65mm"
 			(at 234.95 88.9 0)
 			(effects
 				(font
@@ -10708,7 +10717,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" "296-SN74ACT07PWRCT-ND"
+		(property "DigiKey" "296-SN74ACT17PWRCT-ND"
 			(at 234.95 88.9 0)
 			(effects
 				(font
@@ -11079,7 +11088,7 @@
 				)
 			)
 		)
-		(property "Value" "74ACT07"
+		(property "Value" "74ACT17"
 			(at 270.51 149.86 0)
 			(effects
 				(font
@@ -11087,7 +11096,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:TSSOP-14_4.4x3.6mm_P0.4mm"
+		(property "Footprint" "Package_SO:TSSOP-14_4.4x5mm_P0.65mm"
 			(at 270.51 156.21 0)
 			(effects
 				(font
@@ -11114,7 +11123,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" "296-SN74ACT07PWRCT-ND"
+		(property "DigiKey" "296-SN74ACT17PWRCT-ND"
 			(at 270.51 156.21 0)
 			(effects
 				(font
@@ -11257,7 +11266,7 @@
 				)
 			)
 		)
-		(property "Value" "74ACT07"
+		(property "Value" "74ACT17"
 			(at 234.95 102.87 0)
 			(effects
 				(font
@@ -11265,7 +11274,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:TSSOP-14_4.4x3.6mm_P0.4mm"
+		(property "Footprint" "Package_SO:TSSOP-14_4.4x5mm_P0.65mm"
 			(at 234.95 109.22 0)
 			(effects
 				(font
@@ -11292,7 +11301,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" "296-SN74ACT07PWRCT-ND"
+		(property "DigiKey" "296-SN74ACT17PWRCT-ND"
 			(at 234.95 109.22 0)
 			(effects
 				(font
